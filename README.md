@@ -1,6 +1,5 @@
-Hi, I am Okoye Onyebuchi John.
-I am interested in everything you are willing to teach me in both tech and music.
-I am currently taking a Web Dev course on Udemy
+Hi, I am Okoye Onyebuchi John. I am a certified junior Front-end Web Developer skilled in the use of HTML, CSS, JavaScript, and the React Library in creating interactive websites and UIs.
+
 💞️ I am looking to collaborate on your projects too, as a junior developer.
 📫 How to reach me: johnonyebuchi075@gmail.com or  Whatsapp at +2349038535069
 
